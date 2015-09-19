@@ -62,3 +62,6 @@ target/
 
 # pycharm .idea/
 .idea/
+
+# csv data
+*.csv
